@@ -23,9 +23,9 @@ I am a passionate technology enthusiast focused on **Cybersecurity** and **Pytho
 ### 📌 Featured Cybersecurity Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔍 **Python Port Scanner** | Lightweight multi-threaded network port scanner. | Python, Sockets |
-| 📊 **Log Analyzer** | Script that parses server logs to detect brute-force attempts. | Python, Regex |
-| 📝 **TryHackMe Writeups** | Detailed walkthroughs and notes from TryHackMe labs. | Markdown |
+| 🛡️ **Campion Security Assessment** | Comprehensive web application penetration test uncovering vulnerabilities like IDOR, CSRF, and cloud database misconfigurations. | Penetration Testing, Bash, API Security |
+| 🔐 **Web App Pentest Report** | Full-scope security assessment detailing API flaws, webhook bypasses, and unauthorized data exposure with actionable remediation. | Web Security, OWASP, Vulnerability Assessment |
+| 📝 **More to come** | 
 
 ---
 
