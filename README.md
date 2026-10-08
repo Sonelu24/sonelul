@@ -15,7 +15,7 @@ I am a passionate technology enthusiast focused on **Cybersecurity** and **Pytho
 
 ### 🛠️ Languages & Tools
 - **Languages:** Python, Bash, HTML/CSS
-- **Cybersecurity & Labs:** TryHackMe, Wireshark, Nmap, Burp Suite, Linux (Kali / Ubuntu)
+- **Cybersecurity & Labs:** TryHackMe, Wireshark, Nmap, Burp Suite, Linux (Kali / Open Suse 16)
 - **Concepts:** Networking Fundamentals, OWASP Top 10, Security Operations (SOC), Threat Analysis
 
 ---
